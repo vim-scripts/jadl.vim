@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1419
+
+The JIAC framework is the Java-based Intelligent Agent Componentware [http://www.jiac.de/] developed at the DAI-Labor [http://www.dai-labor.de/] at the Technical University of Berlin [http://www.tu-berlin.de/].
+
+This script provides syntax highlighting for the *.jadl and *.onto files which are used to program agents in the framework.
+
+The official homepage of the script can be found at
+http://user.cs.tu-berlin.de/~makunze/vim-jiac.html
